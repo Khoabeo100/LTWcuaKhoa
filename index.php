@@ -247,7 +247,20 @@
                   </div>
                </div>
   
-  
+               <div class="item">
+                  <div class="content">
+                      <img src="img/2.jpg" alt="">
+                      <div class="des">
+                        <div>
+                           <b>Day3</b> 
+                        </div>
+                        <a href="D3/BTTL/demo1.php"> Bài 1</a>
+                        <br>
+                            <a href="D3/BT/index.php"> Bài 2</a>
+                            
+                    </div>
+                  </div>
+               </div>
               <!-- 
                <div class="item">
                   <div class="content">
