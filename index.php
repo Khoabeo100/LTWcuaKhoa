@@ -273,7 +273,7 @@
                         <br>
                             <a href="D4/bai2.1.php"> Bài 2.1</a>
                         <br>
-                            <a href="D4/bai2.2.php"> Bài 2.1</a>   
+                            <a href="D4/bai2.2.php"> Bài 2.2</a>   
                             
                     </div>
                   </div>
