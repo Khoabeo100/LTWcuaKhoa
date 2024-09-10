@@ -305,6 +305,23 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             </div>
         <?php endif; ?>
     </div>
+        
+<button style="
+    width: 70px;
+    background-color: rgba(218, 210, 210, 0.3);
+    border: 3px solid black;
+    cursor: pointer;
+    height: 70px;
+    border-radius: 10px;
+    border: none;
+    display: inline-block;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;"
+>
+    <a href="http://laptrinhwebkhoabeo.000.pe">
+    <img src="home1.png" style="width: 60%;"></a>
+</button>
 </body>
 
 </html>
