@@ -278,6 +278,28 @@
                     </div>
                   </div>
                </div>
+
+               <div class="item">
+                  <div class="content">
+                      <img src="img/6.jpg" alt="">
+                      <div class="des">
+                        <div>
+                           <b>Day6</b> 
+                        </div>
+                        <a href="D6.1/create_db.php">Create_db</a>
+                        <br>
+                            <a href="D6.1/insert.php">Insert</a>
+                        <br>
+                            <a href="D6.1/edit.php">Edit</a>   
+                        <br>
+                            <a href="D6.1/list.php">List</a>   
+                        <br>
+                            <a href="D6.1/delete.php">Delete</a>   
+                            
+                    </div>
+                  </div>
+               </div>
+
               <!-- 
                <div class="item">
                   <div class="content">
