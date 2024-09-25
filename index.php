@@ -300,6 +300,19 @@
                   </div>
                </div>
 
+               <div class="item">
+                  <div class="content">
+                      <img src="img/7.jpg" alt="">
+                      <div class="des">
+                        <div>
+                           <b>Day6</b> 
+                        </div>
+                        <a href="D7/students_list.php">List</a>
+                
+                    </div>
+                  </div>
+               </div>
+
               <!-- 
                <div class="item">
                   <div class="content">
